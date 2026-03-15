@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andr1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F\\lab4\\task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5639CE8B-FB7A-4DE9-9672-149122976E8F}|task2\\task2.fsproj|c:\\users\\andr1\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u044F\u043F\\lab4\\task2\\task2\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{5639CE8B-FB7A-4DE9-9672-149122976E8F}|task2\\task2.fsproj|solutionrelative:task2\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\andr1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F\\lab4\\task2\\task2\\Program.fs",
+              "RelativeDocumentMoniker": "task2\\Program.fs",
+              "ToolTip": "C:\\Users\\andr1\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u041F\\lab4\\task2\\task2\\Program.fs",
+              "RelativeToolTip": "task2\\Program.fs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-15T13:03:30.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
